@@ -3,3 +3,5 @@ openpyxl
 seaborn
 matplotlib
 numpy
+scikit-learn
+catboost
