@@ -66,7 +66,11 @@ def main():
     # Save to CSV
     df_importances.to_csv('feature_importances.csv', index=False)
 
+    # Save model
+    model.save_model('model.pkl')
+
     print("Feature importances saved to feature_importances.csv")
+    print("Model saved to model.pkl")
     print(f"Top 5 features:\n{df_importances.head()}")
 
 if __name__ == "__main__":
