@@ -1,0 +1,219 @@
+Column 1: Name='№ пациента (пробирки) ', Type='numeric', Samples=0, 0, 0
+Column 2: Name='Номер истории', Type='text', Samples=2023/25634/3316, 2024/19496/2619, 2024/06919/898
+Column 3: Name='Кровь (да-1, нет-2)', Type='numeric', Samples=1, 1, 2
+Column 4: Name='Группа наблюдения (1-здоровые, 2-ГАГ, 3-ум.ПЭ, 4-тяж.ПЭ,0-хрАГ)', Type='numeric', Samples=1, 3, 2
+Column 5: Name='Возраст', Type='text', Samples=40, 38, 35
+Column 6: Name='Местность (1 - город; 2 - село)', Type='numeric', Samples=2, 1, 1
+Column 7: Name='Брак (1 - зарегистрирован, 2 - не состоит в браке)', Type='numeric', Samples=2, 1, 1
+Column 8: Name='Образование (1 - высшее, 2 - неполное высшее, 3 - среднее)', Type='numeric', Samples=1, 1, 1
+Column 9: Name='Диагноз заключительный клинический', Type='text', Samples=Основной диагноз: Беременность 40 недель. Роды первые, срочные, в переднем виде затылочного предлежания.
+Осложнения беременности: ОГА.  Преждевременный разрыв плодных оболочек. 
+Сопутствующие: Кольпит (санирован)
+Эпизиотомия. Эпизиоррафия., Беременность 39/5 недель. Роды 4, срочные в переднем виде затылочного предлежания с однократным тугтим обвитием пуповины вокруг шеи, Беременность 39/1 недель. Роды первые, операптивные, в головном предлежании. Отеки вызванные беременностью.  Гестационная артериальная гипертензия. преждевременный разрыв плодных оболочек. Миопия слабой степени. Поствоспалительное уплотнение стенок аорты и створок аортального клапана. ХСН 0 ст.  Ожирение 1 ст. Лапоротомия по Пфанненштилю. Кесарево сечение в нижнем маточном сегменте.
+Column 10: Name='Осложнения основного', Type='text', Samples=Гестационная артериальная гипертензия , ОАА. Симфизит. Отеки, вызванные беременностью. Гестационная артериальная гипертензия., ОАА
+Column 11: Name='Сопутствующие заболевания', Type='text', Samples=Миопия слабой степени. Синдром вегетативной дистонии. Нарушение ритма по типу частой желудочковой экстрасистолии. ХСН 0. Субклинический гипотиреоз в ст. медикаментозной компенсации. Множественная миома тела матки. ОРВИ, легкое течение, стадия реконвалесценции. Лапаротомия по Пфанненштилю. Кесарево сечение в нижнем маточном сегменте. Z38.0 Один ребенок, рожденный в стационаре, Субклинический гипотиреоз. МКБ. Хронический пиелонефрит, ремиссия. Лапаротомия по Пфанненштилю. Кесарево сечение в н/маточном сегменте. Один ребенок, рожденный в стационаре, Миома тела матки небольших размеров. Рубцовая деформация шейки матки. Ретикулярный внутрикожный варикоз. Ожирение 1 ст.  Миопический астигматизм. Табакокурение
+Column 12: Name='Вид родоразрешения (1 - ЕР, 2 - КС, 0 - не родоразрешена)', Type='numeric', Samples=1, 1, 0
+Column 13: Name='Вредные привычки', Type='numeric', Samples=1, 1, 1
+Column 14: Name='Алкоголь (частота, количество) (1 - нет, 2 - да)', Type='numeric', Samples=1, 1, 1
+Column 15: Name='Наркотики (название, частота) (1 - нет, 2 - да)', Type='numeric', Samples=1, 1, 1
+Column 16: Name='Профессиональные вредности (1 - нет, 2 - да)', Type='numeric', Samples=1, 1, 1
+Column 17: Name='Многоплодие в анамнезе (1 - нет, 2- да)', Type='numeric', Samples=1, 1, 1
+Column 18: Name='Наследственные заболевания (1 - нет, 2 - да)', Type='numeric', Samples=1, 1, 1
+Column 19: Name='Переливания крови (1 - нет, 2 - да)', Type='numeric', Samples=1, 1, 1
+Column 20: Name='Менструация с, лет', Type='numeric', Samples=14, 13, 16
+Column 21: Name='регулярные (1 - нет, 2 - да)', Type='numeric', Samples=2, 2, 2
+Column 22: Name='безболезненные (1 - нет, 2 - да)', Type='numeric', Samples=2, 2, 2
+Column 23: Name='умеренные (1 - нет, 2 - да)', Type='numeric', Samples=2, 2, 2
+Column 24: Name='длительность, дней', Type='text', Samples=5, 6, 6
+Column 25: Name='цикл, дней ', Type='text', Samples=25, 27, 28
+Column 26: Name='Контрацепция: (1 - нет, 2 - да)', Type='numeric', Samples=1, 1, 1
+Column 27: Name='Гинекологические заболевания (1 - нет, 2 - да)', Type='numeric', Samples=2, 1, 1
+Column 28: Name='Начало половой жизни, лет', Type='numeric', Samples=20, 19, 15
+Column 29: Name='номер настоящей беременности', Type='numeric', Samples=1, 1, 2
+Column 30: Name='Аборт', Type='numeric', Samples=1, 1, 1
+Column 31: Name='Самопроизвольный (1 - нет, 2 - да)', Type='numeric', Samples=1, 1, 1
+Column 32: Name='Неразвивающаяся беременность (1 - нет, 2 - да)', Type='numeric', Samples=1, 1, 2
+Column 33: Name='Роды', Type='numeric', Samples=2, 1, 1
+Column 34: Name='преждевременные (1 - нет, 2 - да)', Type='numeric', Samples=1, 1, 1
+Column 35: Name='Количество преждевременных родов', Type='numeric', Samples=0, 0, 0
+Column 36: Name='Операции (1 - нет, 2- да)', Type='numeric', Samples=1, 1, 1
+Column 37: Name='Сведения о детях', Type='numeric', Samples=1, 1, 0
+Column 38: Name='Патология плода (1 - нет, 2 -да)', Type='numeric', Samples=1, 1, 1
+Column 39: Name='Мертворождения (1 - нет, 2 - да)', Type='numeric', Samples=1, 1, 1
+Column 40: Name='Общая прибавка в весе +, кг', Type='numeric', Samples=13, 13, 10
+Column 41: Name='I триместр', Type='numeric', Samples=2, 2, 1
+Column 42: Name='Патология (1 - нет, 2 - ОРВИ, 3 - анемия, 4 - угроза прерывания, 5 - отеки, гипертензия)', Type='numeric', Samples=1, 1, 3
+Column 43: Name='II триместр', Type='numeric', Samples=2, 2, 2
+Column 44: Name='Патология (1 - нет, 2 - ОРВИ, 3 - анемия, 4 - угроза прерывания, 5 -отеки, гипертензия, 6 - плацентарные нарушения)', Type='numeric', Samples=1, 2, 1
+Column 45: Name='III триместр', Type='numeric', Samples=1, 1, 1
+Column 46: Name='Патология (1 - нет, 2 - ОРВИ, 3 - анемия, 4 - угроза прерывания, 5 - отеки, гипертензия, протеинурия, 6 - плацентарные нарушения)', Type='numeric', Samples=3, 5, 2
+Column 47: Name='Лекарственные препараты в I триместре беременности (1 - нет, 2 - ВМК, 3 - микронизированный прогестерон, 4 - антигипертензивные препараты, 5 - препараты железа, 6 - антикоагулянты)', Type='numeric', Samples=2, 2, 2
+Column 48: Name='Шкала Глазго', Type='numeric', Samples=15, 15, 15
+Column 49: Name='t', Type='numeric', Samples=36.9, 36, 36.7
+Column 50: Name='ИМТ', Type='text', Samples=18.7, 32.8, 27
+Column 51: Name='Ожирение (1 - нет, 2 - ожирение 1 степени, 3 - ожирение 2 степени, 4 - ожирение 3 степени)', Type='numeric', Samples=1, 1, 1
+Column 52: Name='Гирсутизм (1 - нет, 2 - да)', Type='numeric', Samples=1, 1, 1
+Column 53: Name='Стрии (1 - нет, 2 - да)', Type='numeric', Samples=1, 1, 1
+Column 54: Name='Послеоперационный рубец (1 - нет, 2 - да)', Type='numeric', Samples=1, 1, 2
+Column 55: Name='ЧСС', Type='text', Samples=78, 76, 72
+Column 56: Name='САД', Type='numeric', Samples=130, 120, 120
+Column 57: Name='ДАД', Type='numeric', Samples=80, 80, 80
+Column 58: Name='Отеки (1 - нет, 2 - да)', Type='numeric', Samples=1, 1, 1
+Column 59: Name='Периферические вены (1 - норма, 2 - варикозное расширение)', Type='numeric', Samples=1, 1, 1
+Column 60: Name='Матка (1 - в нормальном тонусе, 2 - возбудима)', Type='numeric', Samples=1, 1, 1
+Column 61: Name='ОЖ, см', Type='numeric', Samples=122, 100, 90
+Column 62: Name='ВДМ', Type='numeric', Samples=36, 39, 33
+Column 63: Name='ПО', Type='numeric', Samples=35, 33, 35
+Column 64: Name='Положение плода (1 - продольное, 2 - поперечное)', Type='numeric', Samples=1, 1, 1
+Column 65: Name='Предлежащая часть (1 - головка, 2 - тазовый конец)', Type='numeric', Samples=1, 1, 1
+Column 66: Name='Сердцебиение плода (1 - ясное ритмичное)', Type='numeric', Samples=1, 1, 1
+Column 67: Name='ЧСС', Type='numeric', Samples=146, 146, 140
+Column 68: Name='Околоплодные воды (1 - не изливались, 2 - подтекание оклоплодных вод)', Type='numeric', Samples=1, 1, 1
+Column 69: Name='Патологические выделения из половых путей (1 - нет, 2 - да)', Type='numeric', Samples=1, 1, 1
+Column 70: Name='Выделения (1 - слизистые, 2 - бели, 3 - творожистые)', Type='numeric', Samples=1, 1, 1
+Column 71: Name='Вход во влагалище (1 - рожавшей, 2 -нерожавшей)', Type='numeric', Samples=2, 1, 2
+Column 72: Name='Степень зрелости шейки (1 - зрелая, 2 -созревающая, 3 - незрелая, 4 - не проводилось в виду предлежания)', Type='numeric', Samples=3, 1, 3
+Column 73: Name='Деформации малого таза (1 - нет, 2 - да)', Type='numeric', Samples=1, 1, 1
+Column 74: Name='Всего баллов', Type='numeric', Samples=1, 1, 0
+Column 75: Name='Риск (1 - низкий, 2 - средний, 3 - высокий)', Type='numeric', Samples=3, 1, 1
+Column 76: Name='Биохимический анализ крови', Type='numeric', Samples=4.32, 3.75, 5.1
+Column 77: Name='Общий белок', Type='numeric', Samples=52.1, 61, 64
+Column 78: Name='Билирубин общий', Type='numeric', Samples=4.3, 10, 2.8
+Column 79: Name='Билирубин прямой', Type='numeric', Samples=3.3, 1.5, 1.2
+Column 80: Name='Мочевина', Type='numeric', Samples=3.7, 3.8, 6.3
+Column 81: Name='Креатинин', Type='numeric', Samples=55, 57, 79
+Column 82: Name='Активность АСТ', Type='numeric', Samples=12.7, 20.8, 14.8
+Column 83: Name='Активность АЛТ', Type='numeric', Samples=14.7, 20.5, 6.4
+Column 84: Name='Фосфатаза щелочная', Type='numeric', Samples=136, 79, 230
+Column 85: Name='Билирубин непрямой', Type='numeric', Samples=2.1, 8.4, 6.1
+Column 86: Name='ОБЩИЙ АНАЛИЗ МОЧИ', Type='text', Samples=0.08, 0, 0
+Column 87: Name='Лейкоциты', Type='numeric', Samples=4, 4, 5
+Column 88: Name='Эпителий плоский', Type='numeric', Samples=3, 3, 10
+Column 89: Name='Эритроциты неизмененные', Type='numeric', Samples=0, 0, 0
+Column 90: Name='ОБЩИЙ АНАЛИЗ КРОВИ', Type='numeric', Samples=104, 108, 121
+Column 91: Name='WBC-лейкоциты', Type='numeric', Samples=9.2, 9.5, 14.5
+Column 92: Name='СОЭ', Type='numeric', Samples=36, 44, 40
+Column 93: Name='RBC-Эритроциты', Type='numeric', Samples=3.62, 3.47, 3.8
+Column 94: Name='HCT-гематокрит', Type='numeric', Samples=37.3, 32, 36.4
+Column 95: Name='PLT-тромбоциты', Type='numeric', Samples=183, 147, 256
+Column 96: Name='MCV-средний объём эритроцита', Type='numeric', Samples=90.8, 79.4, 78.9
+Column 97: Name='МСН-среднее объемное содержание гемоглобина в эритроците', Type='numeric', Samples=23.2, 30.8, 33.5
+Column 98: Name='МСНС-средняя конц.гемоглобина в эритроците', Type='numeric', Samples=320, 342, 338
+Column 99: Name='LYM-лимфоциты', Type='numeric', Samples=20.9, 22.6, 20.4
+Column 100: Name='MON-моноциты', Type='numeric', Samples=6.9, 4.6, 4.2
+Column 101: Name='GRAN -грануллоциты', Type='numeric', Samples=76.1, 65.5, 55
+Column 102: Name='ТРОМБОЦИТЫ', Type='numeric', Samples=192, 272, 239
+Column 103: Name='PCT', Type='numeric', Samples=0.28, 0.2, 0
+Column 104: Name='MPV', Type='numeric', Samples=11.3, 9.7, 10.5
+Column 105: Name='PDW', Type='numeric', Samples=15.8, 15.3, 17.2
+Column 106: Name='ГЕМОСТАЗ', Type='numeric', Samples=2.54, 7.94, 6.18
+Column 107: Name='Тромбиновое время', Type='numeric', Samples=13.4, 11, 13.8
+Column 108: Name='Протромбиновый индекс', Type='numeric', Samples=89, 100.6, 89
+Column 109: Name='МНО', Type='numeric', Samples=1, 0.9, 0.96
+Column 110: Name='Протромбиновое отношение', Type='numeric', Samples=1.02, 0.94, 0.88
+Column 111: Name='АЧТВ', Type='numeric', Samples=32.4, 27.3, 28
+Column 112: Name='Свертываемость крови', Type='numeric', Samples=8, 7, 7.3
+Column 113: Name='Кровоточивость', Type='numeric', Samples=0.3, 1.3, 0.3
+Column 114: Name='Название ультразвуковой диагностической системы', Type='text', Samples=Toshiba «Xario XG», Toshiba «Xario XG», Toshiba «Xario XG»
+Column 115: Name='Срок беременности', Type='text', Samples=38/5, 39, 37/3
+Column 116: Name='ФЕТОМЕТРИЯ', Type='text', Samples=37/1, 8.9, 8.9
+Column 117: Name='ОГ, см', Type='numeric', Samples=35.9, 33.1, 35.1
+Column 118: Name='ОЖ, см', Type='numeric', Samples=33, 36.1, 32.3
+Column 119: Name='Бедро, см', Type='numeric', Samples=6, 7.5, 7.3
+Column 120: Name='ПМП, гр', Type='text', Samples=2484, 1358, 488
+Column 121: Name='ПЛАЦЕНТА', Type='numeric', Samples=2, 2, 1
+Column 122: Name='Толщина', Type='text', Samples=3.9, 4.3, 3.9
+Column 123: Name='Степень зрелости (0 - 0, 1 - 1, 2 - 2, 3 - 3, 4 - 0/1, 5- 1/2, 6 -2/3)', Type='numeric', Samples=5, 1, 3
+Column 124: Name='КОЛИЧЕСТВО ОКОЛОПЛОДНЫХ ВОД', Type='numeric', Samples=1, 1, 1
+Column 125: Name='ИАЖ', Type='text', Samples=17.2, 11.7, 16
+Column 126: Name='ДОППЛЕРОГРАФИЯ ', Type='text', Samples=0.78, 0.88, 0.67
+Column 127: Name='ЧСС', Type='numeric', Samples=149, 148, 139
+Column 128: Name='Средняя мозговая артерия, см/с', Type='numeric', Samples=47, 66.7, 1.45
+Column 129: Name='Апгар 1 минута', Type='numeric', Samples=7, 8, 8
+Column 130: Name='Апгар 5 минута', Type='numeric', Samples=8, 8, 8
+Column 131: Name='Первичная реанимация (1 - нет, 2 - да)', Type='numeric', Samples=1, 1, 1
+Column 132: Name='Масса', Type='text', Samples=3250, 3150, 3690
+Column 133: Name='Длина', Type='numeric', Samples=51, 49, 52
+Column 134: Name='Пороки (1 - нет, 2 - упущен)', Type='numeric', Samples=1, 1, 1
+Column 135: Name='КТР, мм', Type='numeric', Samples=62, 55, 80
+Column 136: Name='БПР, мм', Type='numeric', Samples=21, 21, 22
+Column 137: Name='ТВП, мм', Type='numeric', Samples=2.09, 1.75, 1.7
+Column 138: Name='Кровоток в венозном протоке (1 - норма)', Type='numeric', Samples=1, 1, 1
+Column 139: Name='PI', Type='numeric', Samples=0.95, 1.19, 1.16
+Column 140: Name='ПИ в маточных артериях справа', Type='numeric', Samples=1.7, 1.83, 1.3
+Column 141: Name='ПИ в маточных артериях слева', Type='numeric', Samples=1.53, 2.37, 3.08
+Column 142: Name='УЗ система', Type='text', Samples=VOLUSON E8., VOLUSON E8., VOLUSON E8.
+Column 143: Name='Толщина плаценты, мм', Type='text', Samples=25, 21, 20
+Column 144: Name='Структура плаценты (1 - однородная, 2 - неоднородная)', Type='numeric', Samples=1, 2, 1
+Column 145: Name='Пуповина имеет (1 - 3 сосуда, 2 - 2 сосуда)', Type='numeric', Samples=1, 1, 1
+Column 146: Name='Маточные артерии ( PI ) справа', Type='numeric', Samples=0.75, 0.76, 0.74
+Column 147: Name='Маточные артерии ( PI ) слева', Type='numeric', Samples=0.55, 1.14, 0.37
+Column 148: Name='Маточные артерии ( PI ) средний', Type='numeric', Samples=0.62, 0.61, 0.84
+Column 149: Name='ПЛАЦЕНТА', Type='numeric', Samples=1, 1, 2
+Column 150: Name='Степень зрелости (0 - 0, 1 - 1, 2 - 2, 3 - 3, 4 - 0/1, 5- 1/2, 6 -2/3)', Type='numeric', Samples=6, 5, 6
+Column 151: Name='Толщина плаценты', Type='text', Samples=3.6, 3.7, 3.7
+Column 152: Name='КОЛИЧЕСТВО ОКОЛОПЛОДНЫХ ВОД, ИАЖ', Type='text', Samples=11.7, 12, 14.3
+Column 153: Name='1', Type='numeric', Samples=24.18, 33.08, 33.1
+Column 154: Name='σ', Type='numeric', Samples=6.1, 3.97, 7.9
+Column 155: Name='Kv', Type='numeric', Samples=60.42, 19.81, 31.09
+Column 156: Name='Перфузия', Type='numeric', Samples=32.64, 23, 22.24
+Column 157: Name='Мнутр.', Type='numeric', Samples=10.88, 14.72, 15.37
+Column 158: Name='Анадн', Type='numeric', Samples=0.3, 0.56, 17.24
+Column 159: Name='ПОМ', Type='numeric', Samples=14.15, 20.93, 9.49
+Column 160: Name='Kv', Type='numeric', Samples=27.88, 23.36, 24.49
+Column 161: Name='Регуляция', Type='numeric', Samples=4.73, 3.79, 2.56
+Column 162: Name='Ан', Type='numeric', Samples=2.89, 1.56, 2.87
+Column 163: Name='Ам', Type='numeric', Samples=2.11, 1.11, 1.71
+Column 164: Name='Ад', Type='numeric', Samples=0.82, 0.82, 1
+Column 165: Name='Ас', Type='numeric', Samples=1.19, 0.77, 0.58
+Column 166: Name='ПШ', Type='numeric', Samples=17.11, 1.025, 1.505
+Column 167: Name='Т◦С', Type='text', Samples=34.45, 36.04, 35.52
+Column 168: Name='Окклюзионная проба', Type='numeric', Samples=63.46, 137.47, 194.56
+Column 169: Name='Ммин', Type='numeric', Samples=31.1, 49.4, 42.7
+Column 170: Name='Т1/2', Type='numeric', Samples=74.6, 51.2, 84.8
+Column 171: Name='Альфа', Type='numeric', Samples=-1.36, 0.89, -9.55
+Column 172: Name='Мисх', Type='numeric', Samples=37.9, 39.8, 36.5
+Column 173: Name='Мвос', Type='numeric', Samples=31.7, 28.1, 42.5
+Column 174: Name='SIRT1', Type='numeric', Samples=1, 2, 3
+Column 175: Name='C', Type='numeric', Samples=0, 0, 1
+Column 176: Name='G', Type='numeric', Samples=1, 0, 1
+Column 177: Name='eNOS', Type='numeric', Samples=1, 1, 2
+Column 178: Name='C', Type='numeric', Samples=1, 1, 0
+Column 179: Name='T', Type='numeric', Samples=1, 0, 1
+Column 180: Name='SOD2', Type='numeric', Samples=1, 0, 1
+Column 181: Name='C', Type='numeric', Samples=1, 0, 1
+Column 182: Name='T', Type='numeric', Samples=1, 1, 0
+Column 183: Name='FGB', Type='numeric', Samples=3, 3, 1
+Column 184: Name='G', Type='numeric', Samples=0, 1, 0
+Column 185: Name='A', Type='numeric', Samples=0, 1, 0
+Column 186: Name='Сиртуин', Type='numeric', Samples=0.0363, 0.0369, 0.0396
+Column 187: Name='PAI', Type='numeric', Samples=0.38, 0.2559, 0.5502
+Column 188: Name='VWF ', Type='numeric', Samples=0.7112, 0.894, 0.5254
+Column 189: Name='NO', Type='numeric', Samples=0.01, 0.156, 0.229
+Column 190: Name='Concentration of NO metabolities, μM', Type='numeric', Samples=6.15609756097561, 5.302439024390244, 0.2048780487804878
+Column 191: Name='МДА', Type='numeric', Samples=0.524, 0.51, 0.923
+Column 192: Name='Е пробы (образца)', Type='numeric', Samples=0.485, 0.567, 0.187
+Column 193: Name='Лактат (ммоль/л)', Type='numeric', Samples=3.5, 3.312, 5.391
+Column 194: Name='PD', Type='numeric', Samples=599, 709, 596
+Column 195: Name='ЧП', Type='numeric', Samples=103, 103, 69
+Column 196: Name='SpO2', Type='numeric', Samples=96.9, 96.3, 96.4
+Column 197: Name='INP1', Type='numeric', Samples=6.5, 0.6, 2.3
+Column 198: Name='VA', Type='numeric', Samples=30, 58, 44
+Column 199: Name='AIp75', Type='numeric', Samples=-3.2, -11.7, -19.4
+Column 200: Name='ТК', Type='text', Samples= C:100,  C:100,  C:100
+Column 201: Name='%ED', Type='numeric', Samples=34, 35, 34
+Column 202: Name='Стресс', Type='numeric', Samples=293, 89, 272
+Column 203: Name='AIp', Type='numeric', Samples=-16.6, -11.9, -8.6
+Column 204: Name='SI', Type='numeric', Samples=6.8, 6.6, 7.3
+Column 205: Name='aSI', Type='numeric', Samples=8.4, 9.6, 8.8
+Column 206: Name='RI', Type='numeric', Samples=17.3, 6.1, 29.3
+Column 207: Name='AGI', Type='numeric', Samples=-1, -0.7, -1.3
+Column 208: Name='ED', Type='numeric', Samples=236, 230, 238
+Column 209: Name='T1', Type='numeric', Samples=102, 100, 115
+Column 210: Name='T2', Type='numeric', Samples=171, 199, 220
+Column 211: Name='dTpp', Type='numeric', Samples=122, 79, 97
+Column 212: Name='SPa', Type='numeric', Samples=118, 113, 119
+Column 213: Name='TdVMax', Type='numeric', Samples=32, 31, 42
+Column 214: Name='Freq1', Type='numeric', Samples=694.6, 647.4, 605.7
+Column 215: Name='MAX_val', Type='numeric', Samples=2.61, 1.09, 2.99
+Column 216: Name='PSSL', Type='numeric', Samples=0, 0, 0
